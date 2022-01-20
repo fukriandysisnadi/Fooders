@@ -4,6 +4,6 @@
 
 
 ## Video Demo
-[![Watch the video](http://img.youtube.com/vi/ePV3PMzL2ks/hqdefault.jpg)](https://youtu.be/ePV3PMzL2ks)
+[![Watch the video](http://img.youtube.com/vi/ePV3PMzL2ks/sddefault.jpg)](https://youtu.be/ePV3PMzL2ks)
 
 Youtube Link : https://youtu.be/ePV3PMzL2ks
